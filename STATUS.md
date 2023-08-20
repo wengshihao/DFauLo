@@ -1,0 +1,3 @@
+We are applying for three badges for this artifact: Artifacts Evaluated - Functional, Artifacts Evaluated - Reusable, and Artifacts Available. 
+We've supplied organized implementation code and methodical evaluation for all the methods we've proposed. Our method, DFauLo, is comprehensively documented and tested on numerous real datasets. We've confirmed the practicality and effectiveness of DFauLo in real-world scenarios through a readily executable demo on the official EMNIST dataset. We're confident that our work will greatly assist future researchers in experimental comparison and analysis.
+If you encounter any questions or difficulties when reuse our method, please do not hesitate to contact us.
